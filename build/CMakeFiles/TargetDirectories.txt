@@ -1,0 +1,3 @@
+/Users/oliverturk/Programming/codeforces/build/CMakeFiles/main.dir
+/Users/oliverturk/Programming/codeforces/build/CMakeFiles/edit_cache.dir
+/Users/oliverturk/Programming/codeforces/build/CMakeFiles/rebuild_cache.dir

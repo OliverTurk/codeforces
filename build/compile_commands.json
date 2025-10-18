@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/oliverturk/Programming/codeforces/build",
+  "command": "/opt/homebrew/bin/g++-15  -I/opt/homebrew/Cellar/gcc/15.1.0/include/c++/15/aarch64-apple-darwin24 -std=gnu++17 -arch arm64 -o CMakeFiles/main.dir/main.cpp.o -c /Users/oliverturk/Programming/codeforces/main.cpp",
+  "file": "/Users/oliverturk/Programming/codeforces/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+}
+]
